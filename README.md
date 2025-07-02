@@ -14,7 +14,7 @@ A modern React-based Pipeline Editor for visually creating and managing Directed
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/pipeline-editor.git
+   git clone https://github.com/Velugondaiah/Pipeline-Editor-For-DAG-Builder
    cd pipeline-editor
    ```
 2. **Install dependencies:**
