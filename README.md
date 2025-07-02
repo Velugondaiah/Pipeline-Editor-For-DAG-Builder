@@ -45,7 +45,9 @@ A modern React-based Pipeline Editor for visually creating and managing Directed
 - All main styles are in CSS for maintainability.
 
 ---
+## 🎥 Demo & Screenrecord
 
+- [Screen Recording](https://drive.google.com/file/d/1tEPM52Hl8dLauaIPMFrbB_OUjUjE7-6f/view?usp=sharing)
 
 ## 💡 Challenges Faced
 
